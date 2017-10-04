@@ -1,0 +1,49 @@
+html {
+    font-family: 'Slabo 27px', serif;
+}
+
+#container-fluid {
+    padding-top: 30px;
+}
+
+#content > .row {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    width: 700px;
+    margin: 0 auto;
+    color: white;
+    background: rgba(100, 100, 100, 0.5);
+    line-height: 25px;
+}
+
+#content {
+    padding-top: 100px;
+     font-family: 'Roboto Slab', serif;
+}
+
+.city {
+    font-size: 35px;
+}
+
+.big-icon {
+    font-size: 132px;
+}
+
+.metricToggle a {
+    color: white;
+    text-align: right;
+    text-decoration: underline;
+}
+
+.metricToggle a:hover {
+    color: white;
+}
+
+.infoTab {
+    padding-top: 20px;
+    line-height: 10px;
+}
+
+.futureForecast {
+    padding-left: 15px;
+}
